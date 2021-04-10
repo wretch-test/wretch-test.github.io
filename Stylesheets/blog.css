@@ -11,8 +11,8 @@ margin:0px;
 font-size:14px;
 color:#ffffff;
 font-family:"Trebuchet Ms";
-#background: #000000;
-background-image:url(/Images/background2.jpg);
+#background: #f2ffff;
+background-image:url(/Images/background2.jpg);width:1000px;height:1200px;
 }
 a {
 color:#00bfff;text-decoration:none;}
