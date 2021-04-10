@@ -11,7 +11,7 @@ margin:0px;
 font-size:14px;
 color:#ffffff;
 font-family:"Trebuchet Ms";
-background:url(/Images/background2.jpg) #ffffff no-repeat center; 
+background: #ffffff no-repeat center; 
 background-size: 1200px 1200px; 
 #background-image:url(/Images/background2.jpg);width:1000px;height:1200px;
 }
@@ -84,7 +84,7 @@ color:#00bfff;text-decoration:none;}
 .posted a {
 color:#00bfff;text-decoration:none;}
 .innertext p img {
-background-color:#000000;}
+background-color:#ffffff;}
 #service li {
 }
 #blogCategory a {
