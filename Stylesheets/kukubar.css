@@ -248,12 +248,11 @@ html, html body, html body #hugewrapper {margin:0!important;padding:0 !important
     text-align:left!important;
 }
 #kukubar-upper .left-side h1 a {
-    background:url(/web/20140106004706im_/http://l.yimg.com/e/serv/common/img/ico_wretch_logo_24.png) center center no-repeat;
-    _background:url(/web/20140106004706im_/http://l.yimg.com/e/serv/common/img/ico_wretch_logo.png) center center no-repeat;
-    width:73px;
-    height:28px;
-    padding:0px;
-    margin:0px 5px;
+    background:url(/Images/logo-removebg.png) center center no-repeat;
+    background-size: 100px 30px;
+    width:100px;
+    height:30px;
+    
     text-indent:-9999px;
     display:block;
     position:static;
@@ -284,6 +283,7 @@ html, html body, html body #hugewrapper {margin:0!important;padding:0 !important
     background-color:transparent;
     margin:0px 8px;
     display:inline-block;
+
 }
 #kukubar-upper span.bar-block-btn,
 #kukubar-upper span.bar-block-btn-login{
