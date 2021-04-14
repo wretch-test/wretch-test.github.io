@@ -7,8 +7,7 @@ margin:0px;
 font-size:14px;
 color:#525151;
 font-family:"Trebuchet Ms";
-background:url(/Images/background6_1.jpg) no-repeat center 50%;
-background-size: auto;
+background:url(/Images/image3.jpg);
 
 }
 a {
@@ -20,7 +19,7 @@ margin:0px auto;overflow:hidden;width:800px;cursor:auto;background-repeat:repeat
 #container2 {
 }
 #banner {
-border-bottom:1px rgb(255, 255, 255);background-image:url(/Images/background5_2.jpg);width:800px;height:255px;}
+border-bottom:1px rgb(255, 255, 255);background-image:url(/Images/background5_4.png);width:800px;height:255px;}
 h1 a {
 font-weight:normal;font-size:20pt;left:450px;width:300px;color:#000000;position:relative;top:50px;text-align:left;font-family:"Lucida Grande";}
 #pageheader #description2 .description {
