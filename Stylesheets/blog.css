@@ -7,7 +7,8 @@ margin:0px;
 font-size:14px;
 color:#525151;
 font-family:"Trebuchet Ms";
-background:url(/Images/image3.jpg);
+background:url(/Images/image5.jpg) no-repeat;
+background-size: cover;
 
 }
 a {
@@ -15,7 +16,7 @@ color:#525151;text-decoration:none;}
 a:hover {
 color:#ffffff;}
 #container1 {
-margin:0px auto;overflow:hidden;width:800px;cursor:auto;background-repeat:repeat-y;position:relative;background-color: transparent;}
+margin:0px auto;overflow:hidden;width:800px;cursor:auto;background-repeat:repeat-y;position:relative;background-color: #ffffff;}
 #container2 {
 }
 #banner {
@@ -27,9 +28,9 @@ left:450px;width:100%;position:absolute;top:180px;text-align:left;}
 #content {
 margin-top:5px;float:left;margin-left:10px;width:550px;overflow:hidden;}
 .date {
-background:transparent;padding-right:20px;text-align:right;}
+background:#b4b4b4;padding-right:20px;text-align:right;}
 .datediv {
-border-color: transparent;border-top-width:0px;color:#525151;background-color:transparent;}
+border-color: transparent;border-top-width:0px;color:#525151;background-color:#b4b4b4;}
 .blogbody {
 padding:10px;margin-bottom:15px;background-color:transparent;}
 .total-comments-div {
@@ -49,7 +50,7 @@ border-left:1px dotted #525151;background:transparent;float:right;width:220px;co
 #links2 {
 color:#afc3d3;}
 .sidetitle {
-background:#afc3d3;padding-left:10px;cursor:default;color:#525151;}
+background:#b4b4b4;padding-left:10px;cursor:default;color:#525151;}
 .side {
 padding:10px;color:#525151;background-color:transparent;}
 .calendar {
