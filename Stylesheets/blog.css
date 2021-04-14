@@ -7,19 +7,20 @@ margin:0px;
 font-size:14px;
 color:#525151;
 font-family:"Trebuchet Ms";
-background:url(https://web.archive.org/web/20140104185725im_/http://l.yimg.com/e/style/3/397/1107255648.jpg) #9ad0f1 left top;
+background:url(/Images/back3.jpg) no-repeat rgb(250,250,250) bottom;
+background-size: auto;
 
 }
 a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 a:hover {
 color:#ffffff;}
 #container1 {
-margin:0px auto;overflow:hidden;width:800px;cursor:auto;background-repeat:repeat-y;position:relative;background-color:#ffffff;}
+margin:0px auto;overflow:hidden;width:800px;cursor:auto;background-repeat:repeat-y;position:relative;background-color: transparent;}
 #container2 {
 }
 #banner {
-border-bottom:1px rgb(255, 255, 255);background-image:url(/Images/background1.jpg);width:800px;height:255px;}
+border-bottom:1px rgb(255, 255, 255);background-image:url(/Images/background5_2.jpg);width:800px;height:255px;}
 h1 a {
 font-weight:normal;font-size:20pt;left:450px;width:300px;color:#000000;position:relative;top:50px;text-align:left;font-family:"Lucida Grande";}
 #pageheader #description2 .description {
@@ -27,11 +28,11 @@ left:450px;width:100%;position:absolute;top:180px;text-align:left;}
 #content {
 margin-top:5px;float:left;margin-left:10px;width:550px;overflow:hidden;}
 .date {
-background:#d5ecff;padding-right:20px;text-align:right;}
+background:#afc3d3;padding-right:20px;text-align:right;}
 .datediv {
-border-color:#d5ecff;border-top-width:0px;color:#525151;background-color:#d5ecff;}
+border-color:#afc3d3;border-top-width:0px;color:#525151;background-color:#afc3d3;}
 .blogbody {
-border-color:#d5ecff;border-width:1px;padding:10px;margin-bottom:15px;background-color:#ffffff;}
+border-color:#afc3d3;border-width:1px;padding:10px;margin-bottom:15px;background-color:transparent;}
 .total-comments-div {
 border-top:1px dotted #525151;margin-top:10px;padding-top:10px;}
 .total-comments-div .trackbacks-head .comments-head {
@@ -45,17 +46,17 @@ border-bottom:1px dotted rgb(136, 136, 136);}
 .total-comments-div .comments-body .comments-post {
 color:#aaaaaa;text-align:right;}
 #links {
-border-left:1px dotted #525151;background:#ffffff;float:right;width:220px;color:#75bdf8;overflow:hidden;}
+border-left:1px dotted #525151;background:#ffffff;float:right;width:220px;color:#525151;overflow:hidden;}
 #links2 {
-color:#d5ecff;}
+color:#afc3d3;}
 .sidetitle {
-background:#d5ecff;padding-left:10px;cursor:default;color:#525151;}
+background:#afc3d3;padding-left:10px;cursor:default;color:#525151;}
 .side {
-padding:10px;color:#75bdf8;background-color:#ffffff;}
+padding:10px;color:#525151;background-color:#ffffff;}
 .calendar {
 padding:0pt;font-size:14px;margin-bottom:20px;}
 a:hover {
-color:#75bdf8;}
+color:#525151;}
 #boxProfile .boxProfile1 {
 color:#ffffff;text-decoration:none;}
 a:hover {
@@ -65,7 +66,7 @@ color:#ffffff;text-decoration:none;}
 a:hover {
 color:#b4b4b4;}
 #boxProfile .boxProfile1 .side .boxrofileLink {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 a:hover {
 color:#b4b4b4;}
 .syndicate {
@@ -73,23 +74,23 @@ padding:10px;}
 .powered {
 padding:10px;}
 .title {
-color:#75bdf8;}
+color:#525151;}
 .extended a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 .posted a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 .innertext p img {
-background-color:#d5ecff;}
+background-color:#afc3d3;}
 #service li {
 }
 #blogCategory a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 #blogCategory a:hover {
 color:#b4b4b4;}
 #linkMypage {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 .side a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 a:hover {
 color:#525151;}
 #banner a {
@@ -97,17 +98,17 @@ text-decoration:none;}
 .innertext p a {
 color:#15c4ff;}
 #linkBlog {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 .syndicate a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 a:hover {
 color:#b4b4b4;}
 .powerin {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 a:hover {
 color:#b4b4b4;}
 .powered a {
-color:#75bdf8;text-decoration:none;}
+color:#525151;text-decoration:none;}
 a:hover {
 color:#b4b4b4;}
 .calendar tr td {
@@ -117,9 +118,9 @@ border:1px solid rgb(21, 255, 255);background:#ffffff;color:#15ffff;display:bloc
 tr td span.calendar a:hover {
 background:#ffffff;color:#b4b4b4;}
 #friendlist {
-color:#75bdf8;background-color:#ffffff;}
+color:#525151;background-color:#ffffff;}
 .side select {
-color:#75bdf8;background-color:#ffffff;}
+color:#525151;background-color:#ffffff;}
 span.titleIII {
 display:none;}
 .sideIII {
